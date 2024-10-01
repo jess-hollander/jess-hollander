@@ -1,9 +1,8 @@
 ### Hi there 👋
 - 🔭 I am a second-year student studying computer science at Northeastern Univeristy
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning the ACL2 language
 - 📫 How to reach me: jessicahollander2005@gmail.com
-- 💬 Projects and repositiories are avaible upon request
+- 💬 Projects and repositiories are available upon request
 <!--
 **jess-hollander/jess-hollander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
