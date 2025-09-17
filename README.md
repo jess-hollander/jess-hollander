@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I am a second-year student studying computer science at Northeastern Univeristy
+- 🔭 I am a third-year student studying computer science at Northeastern Univeristy
 - 😄 Pronouns: she/her
 - 📫 How to reach me: hollander.je@northeastern.edu
 - 💬 Projects and repositiories are available upon request
